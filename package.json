@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-blog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "MirrorXu",
+    "email": "xuxulee@163.com"
+  },
+  "repository": "https://github.com/MirrorXu/blog.git",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0",
+    "@vuepress/theme-blog": "^1.0.0"
+  }
+}
