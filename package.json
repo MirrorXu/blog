@@ -10,7 +10,8 @@
   "repository": "https://github.com/MirrorXu/blog.git",
   "scripts": {
     "dev": "vuepress dev blog",
-    "build": "vuepress build blog"
+    "build": "vuepress build blog",
+    "publish": "sh ./deploy.sh"
   },
   "license": "MIT",
   "devDependencies": {
