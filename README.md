@@ -1,13 +1,1 @@
-# vuepress-blog
-
-> 
-
-## Development
-
-```bash
-yarn dev
-yarn build
-```
-
-For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
-
+# 使用 Vuepress 开始自己的创作
