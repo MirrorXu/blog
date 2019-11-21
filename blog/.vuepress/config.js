@@ -45,7 +45,7 @@ module.exports = {
 				{
 					// text: "MIT Licensed | Copyright © Mirror",
 					text: "© Mirror",
-					// link: ""
+					link: ""
 				}
 			]
 		}
