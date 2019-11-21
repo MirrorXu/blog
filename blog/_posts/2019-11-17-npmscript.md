@@ -1,5 +1,5 @@
 ---
-date: 2019-11-17
+date: 2019/11/17
 tag:
   - npm
   - npm script
